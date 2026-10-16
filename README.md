@@ -2,6 +2,8 @@
 
 A one-page sales and FAE tool for Astera Labs' Leo CXL Smart Memory Controllers. A buyer enters their server refresh, and the page shows how much retired DDR4 can come back as CXL-attached memory, what new DDR5 they avoid buying, and the net savings after CXL cards and testing.
 
+**Live page:** https://tp433-star.github.io/leo-ddr4-reuse-calculator/
+
 Concept by Tanisha John. Not an official Astera Labs tool.
 
 ## What it does
